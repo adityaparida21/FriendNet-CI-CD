@@ -1,3 +1,0 @@
-test CI pipeline
-test CD pipeline
-test RELEASED pipeline
